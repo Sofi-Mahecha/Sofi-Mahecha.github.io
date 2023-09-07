@@ -1,0 +1,31 @@
+﻿
+titulo
+{
+    color:mediumpurple ;
+    font-family:after center;
+    font-size:60px;
+    text-align:center;
+}
+body {
+    background-image: url(FONDO.jpg);
+   
+}
+h1
+{
+    color:cornflowerblue;
+    font-family:after center;
+    font-size:50px;
+}
+h2
+{
+    color:royalblue;
+    font-family:Britannic;
+    font-size:65px;
+
+}
+div {
+    color: aliceblue;
+    font-family: 'Book Antiqua';
+    font-size: 25px;
+    border: 2px dotted gray;
+}
